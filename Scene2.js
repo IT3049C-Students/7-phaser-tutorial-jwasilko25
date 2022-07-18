@@ -201,4 +201,4 @@ class Scene2 extends Phaser.Scene{
       }
       return stringNumber;
     }
-  }
+  } 
