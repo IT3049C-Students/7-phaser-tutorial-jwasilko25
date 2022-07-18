@@ -16,4 +16,4 @@ window.onload = function(){
     var gameSettings = {
       playerSpeed = 200, 
     }
-  }
+  } 
